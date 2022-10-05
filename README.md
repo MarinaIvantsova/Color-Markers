@@ -1,6 +1,6 @@
 # Color-Markers
 
-Look at beutiful project with html and css<a href="https://marinaivantsova.github.io/Color-Markers/">CSS Color Markers</a>.
+Used HTML and CSS for the following project: <a href="https://marinaivantsova.github.io/Color-Markers/">CSS Color Markers</a>.
 
 There are used such CSS properties as:
 
