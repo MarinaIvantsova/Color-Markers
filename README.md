@@ -14,4 +14,4 @@ There are used 3 color code systems:
 - rgb;
 - hsl;
 
-FreeCodeCamp course: <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-colors-by-building-a-set-of-colored-markers">Learn CSS Colors by Building a Set of Colored Markers</a>
+FreeCodeCamp course: <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-colors-by-building-a-set-of-colored-markers">Learn CSS Colors by Building a Set of Colored Markers</a>.
